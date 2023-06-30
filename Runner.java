@@ -3,6 +3,7 @@ public class Runner {
         int master;
         int afterREBASED;
         int masterBarnch;
+        int masterContinuer;
     }
    private static void ter(){
         System.out.println("ter methods");
